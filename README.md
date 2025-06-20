@@ -1,4 +1,4 @@
-# Week-1
+# Shell Internship Project ( Edunet Foundation) 
 E-waste generation classification :-
 
 The primary objective of this project is to develop a highly accurate and dependable E-Waste Image Classification model for categorizing electronic waste based on visual data. This advanced model will leverage transfer learning with the EfficientNetV2B0 algorithm, a state-of-the-art convolutional neural network. Automating e-waste identification will facilitate efficient sorting and recycling, representing a pivotal advancement towards a circular economy for electronics, promoting environmental stewardship, and safeguarding public health.
